@@ -7,11 +7,11 @@ require "uni_person_data_br/version"
 Gem::Specification.new do |s|
   s.name        = "uni_person_data_br"
   s.version     = UniPersonDataBr::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of UniPersonDataBr."
-  s.description = "TODO: Description of UniPersonDataBr."
+  s.authors     = ["Bruno Ferreira Cavalcante"]
+  s.email       = ["brunofcavalcante@gmail.com"]
+  s.homepage    = "https://github.com/astux/uni-person-data-br"
+  s.summary     = "Summary of UniPersonDataBr."
+  s.description = "Description of UniPersonDataBr."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
