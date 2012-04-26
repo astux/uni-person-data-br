@@ -1,0 +1,16 @@
+PersonDataBr
+============
+
+Plugin para Uni que adiciona campos em Aluno e Professor.
+
+
+Instalacao
+===========
+
+1. Coloque o os arquivos deste plugin dentro de vendors/plugins da Uni
+2. Execute: rails g person_data_br:install
+3. Execute: rake db:migrate
+
+Pronto. :)
+
+Copyright (c) 2011 Astux, released under the MIT license
